@@ -1,3 +1,1 @@
-Git is a version control sys.
-Git news 
-Git learn
+Git is a version ...
